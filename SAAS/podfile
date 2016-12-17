@@ -1,0 +1,10 @@
+
+platform:ios,'7.0'
+target 'SAAS' do
+pod 'SDWebImage','~>3.7'
+ pod 'JSONModel'
+pod 'AFNetworking'
+ pod 'UMengSocial'
+pod'MJRefresh'
+pod'MBProgressHUD'
+end
